@@ -35,7 +35,8 @@
               "title": "Installing on windows for work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57b1c7060e01d6f4",
+  "active": "0284db4df94d354f",
   "lastOpenFiles": [
-    "my_obsidian/Installing on windows for work.md",
     "my_obsidian/Git integration.md",
+    "my_obsidian/Installing on windows for work.md",
     "my_obsidian/2025-07-23.md",
     "Recording 20250723134914.m4a",
     "create a link.md",

@@ -15,3 +15,7 @@ added the remote repository with
 then pushed using 
 `git push -u origin master`
 
+Now the git plugin can push to github
+
+
+
