@@ -18,4 +18,9 @@ then pushed using
 Now the git plugin can push to github
 
 
+### Auto sync 
+I used the plugin settings to commit and push 15 minutes after the last file is edited
+I also enabled the option to pull on startup of obsidian. 
+
+
 
