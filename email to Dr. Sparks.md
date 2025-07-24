@@ -1,4 +1,4 @@
-My draft to Erin:
+My draft to Erin
 
 Joe,
 
