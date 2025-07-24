@@ -23,4 +23,10 @@ I used the plugin settings to commit and push 15 minutes after the last file is 
 I also enabled the option to pull on startup of obsidian. 
 
 
+### Phone app
+This might be a little trickier. The git plugin does not support ssh authentication. 
+#todo
+My Solution is to clone the repo with https from my work laptop onto the phone and then trying to use the app to interact with the repo. 
+
+
 
