@@ -25,14 +25,14 @@
             "id": "0284db4df94d354f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "email to Dr. Sparks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "email to Dr. Sparks"
             }
           }
         ],
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91c73ff5c847c60a",
+  "active": "0284db4df94d354f",
   "lastOpenFiles": [
     "my_obsidian/getting things done audiobook.md",
     "my_obsidian/LLM plugin search.md",

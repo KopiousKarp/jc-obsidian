@@ -22,6 +22,12 @@ Please forgive me if I am overly clear, as I see a few misunderstandings from ou
 
 Firstly, you have a correct understanding that I used the images to build a pipeline, that pipeline was described in the thesis document that I shared with you, along with an email that I sent to you over a month ago. I will remark that it would have been appropriate to send a simple "no" to that email, requesting that you be a committee member, but I was also content to say that you had simply missed it due to the field season.  
 
-I'd like to apologize for not emailing you sooner, I saw you on the green and made it pretty clear to you that Dr. Barner and I had something promising and I was going to complete my masters finishing this project. Forgive me for feeling unwelcome and wanting to approach you with a finished product instead of progress reports. A few weeks after we spoke, we saw each other on the Green again and I was promptly looked off by you and your husband gracefully gave me the middle finger from across the Green. 
+I'd like to apologize for not emailing you sooner, I saw you on the green and made it pretty clear to you that Dr. Barner and I had something promising and I was going to complete my masters finishing this project. Forgive me for feeling unwelcome and wanting to approach you with a finished product instead of progress reports. A few weeks after we spoke, we saw each other on the Green again and I was promptly looked off by you and your husband gracefully gave me the middle finger from across the courtyard. 
 
-Now I thought this was already made clear in every communication that I've had with you, but I have never intended to publish your data without collaborating with you. That's why I asked you if you had time for a meeting, and that question still stands, as you've avoided it from both me and Dr. Hoober now. 
+Now I thought this was already made clear in every communication that I've had with you, but I have never intended to publish your data without collaborating with you first. That's why I asked you if you had time for a meeting, and that question still stands, as you've avoided it from both me and Dr. Hoober now. 
+
+>this is too hateful; done with this draft
+
+
+
+#### The actual draft
