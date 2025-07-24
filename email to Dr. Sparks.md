@@ -11,3 +11,6 @@ I’ll also state that it’s inappropriate to ask me and others in the lab to s
 Lastly for your request, the short answer is no – this data cannot be published, and you cannot ask Than for additional details. Ashley has already published the brace root phenotypes of these lines and shown they are distinguishable.  We have initiated independent efforts to resolve these data, which would be undermined by your use in a publication. Again, this could have been avoided if you maintained contact while using our data.  Any publicly available data from Ashley’s paper can be used, but unpublished BRobot images cannot be used.
 
 Erin
+
+
+Drafting my response
