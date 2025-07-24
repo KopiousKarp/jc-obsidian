@@ -49,8 +49,7 @@
               "title": "getting things done audiobook"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da3558c8c512f373",
+  "active": "4c53b937fc902be0",
   "lastOpenFiles": [
-    "Biolog/Readme.md",
     "my_obsidian/getting things done audiobook.md",
-    "my_obsidian/LLM plugin search.md",
     "2025-07-24.md",
+    "Biolog/Readme.md",
+    "my_obsidian/LLM plugin search.md",
     "email to Dr. Sparks.md",
     "Untitled",
     "my_obsidian/Readme.md",
