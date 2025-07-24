@@ -11,10 +11,14 @@
             "id": "9f9c409936b09f9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-24"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#QCMALDI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,9 +184,11 @@
   },
   "active": "9f9c409936b09f9e",
   "lastOpenFiles": [
+    "Pasted image 20250724073650.png",
+    "2025-07-24.md",
+    "Biolog/Readme.md",
     "my_obsidian/Installing on windows for work.md",
     "my_obsidian/Git integration.md",
-    "Biolog/Readme.md",
     "my_obsidian/LLM plugin search.md",
     "my_obsidian/Readme.md",
     "Biolog",
