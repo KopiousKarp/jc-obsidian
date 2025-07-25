@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biolog/DNA_assembly_algorithm/readme.md",
+                "file": "2025-07-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "2025-07-25"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "20c5e04b222d5f9b",
   "lastOpenFiles": [
-    "().md",
     "Biolog/DNA_assembly_algorithm/readme.md",
+    "().md",
     "2025-07-25.md",
     "Biolog/DNA_assembly_algorithm",
     "ML Lab/email to Dr. Sparks.md",
