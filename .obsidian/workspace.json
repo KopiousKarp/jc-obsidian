@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-25.md",
+                "file": "Biolog/DNA_assembly_algorithm/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-25"
-            }
-          },
-          {
-            "id": "da3558c8c512f373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my_obsidian/getting things done audiobook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "getting things done audiobook"
+              "title": "readme"
             }
           }
         ]
@@ -197,8 +183,11 @@
   },
   "active": "20c5e04b222d5f9b",
   "lastOpenFiles": [
-    "email to Dr. Sparks.md",
+    "().md",
+    "Biolog/DNA_assembly_algorithm/readme.md",
     "2025-07-25.md",
+    "Biolog/DNA_assembly_algorithm",
+    "ML Lab/email to Dr. Sparks.md",
     "2025-07-24.md",
     "ML Lab/readme.md",
     "ML Lab",
@@ -209,9 +198,7 @@
     "my_obsidian/LLM plugin search.md",
     "my_obsidian/Readme.md",
     "Biolog/Readme.md",
-    "Untitled",
     "GTD.md",
-    "().md",
     "Pasted image 20250724073650.png",
     "Biolog",
     "Recording 20250723134914.m4a",
