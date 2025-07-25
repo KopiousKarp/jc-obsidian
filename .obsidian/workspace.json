@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80764e3ceeec474f",
+        "id": "0c07af070cbb92e9",
         "type": "tabs",
         "children": [
           {
-            "id": "20c5e04b222d5f9b",
+            "id": "31b361ade326fa66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-25.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-25"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20c5e04b222d5f9b",
+  "active": "b0e8379ee11901ba",
   "lastOpenFiles": [
     "Biolog/DNA_assembly_algorithm/readme.md",
     "().md",
-    "2025-07-25.md",
+    "Biolog/2025-07-25.md",
     "Biolog/DNA_assembly_algorithm",
     "ML Lab/email to Dr. Sparks.md",
     "2025-07-24.md",
