@@ -68,6 +68,8 @@ Cline is an autonomous coding agent that performs multi‑step tasks in your pro
 
 ## 3. Using AI Toolkit (Visual Studio Code’s model playground and agent builder)
 
+>seems a little too manual and not feature rich enough
+
 Microsoft’s **AI Toolkit** provides a graphical interface to experiment with models, build simple agents and test prompts. Since version 0.6.2 it supports adding **Ollama** models.
 
 1. **Install AI Toolkit** from the VS Code marketplace (requires version 0.6.2+).
@@ -103,11 +105,11 @@ Cody provides AI coding assistance and has an experimental feature that lets you
 
 **Pros**: Familiar UI and high‑quality context retrieval for completions; easy to configure.  
 **Cons**: Only completions are local; chat still uses Sourcegraph’s remote service (requires a login). Feature is marked experimental[sourcegraph.com](https://sourcegraph.com/blog/local-code-completion-with-ollama-and-cody#:~:text=installed%2C%20update%20your%20VS%20Code,to%20use%20Ollama%20with%20Cody).
-
+> Deal breaker
 ## Choosing models
 
 Different tasks benefit from different models. For tab completion and inline edits where speed matters, small code‑specialized models such as **StarCoder2 3b** or **DeepSeek Coder 6.7b** provide rapid suggestions[pedroalonso.net](https://www.pedroalonso.net/blog/local-ai-assitance-with-continue-ollama-vscode/#:~:text=Code,7b). For chat and general reasoning, general‑purpose LLMs such as **Llama 3.1 8b** or **Gemma 2 9b** offer broader knowledge[pedroalonso.net](https://www.pedroalonso.net/blog/local-ai-assitance-with-continue-ollama-vscode/#:~:text=General,and%20Gemma%202%209b). Ollama can run multiple models concurrently if your hardware has sufficient RAM/VRAM; you can assign one for chat and another for completions by adjusting the configuration[ollama.com](https://ollama.com/blog/continue-code-assistant#:~:text=Use%20DeepSeek%20Coder%206,Llama%203%208B%20for%20chat).
-
+> gemma 3 for me 
 ## Hardware considerations and best practices
 
 - **VRAM/CPU**: Larger models (e.g., 22 B parameter Codestral) require significant GPU memory and may only run on high‑end GPUs[ollama.com](https://ollama.com/blog/continue-code-assistant#:~:text=Try%20out%20Mistral%20AI%E2%80%99s%20Codestral,model%20for%20autocomplete%20and%20chat). Choose models appropriate for your hardware.
