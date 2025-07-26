@@ -11,10 +11,14 @@
             "id": "31b361ade326fa66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biolog/DNA_assembly_algorithm/readme.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "readme"
             }
           }
         ]
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91c73ff5c847c60a",
+  "active": "31b361ade326fa66",
   "lastOpenFiles": [
     "Biolog/2025-07-25.md",
     "Biolog/DNA_assembly_algorithm/readme.md",
