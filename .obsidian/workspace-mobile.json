@@ -11,14 +11,10 @@
             "id": "6820749b2e0b3a8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "email to Dr. Sparks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "email to Dr. Sparks"
+              "title": "New tab"
             }
           }
         ]
@@ -166,5 +162,28 @@
     }
   },
   "active": "6820749b2e0b3a8e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ML Lab/readme.md",
+    "ML Lab/email to Dr. Sparks.md",
+    "Biolog/DNA_assembly_algorithm/readme.md",
+    "Biolog/2025-07-25.md",
+    "Biolog/2025-07-24.md",
+    "/my_obsidian/getting things done audiobook.md",
+    "/my_obsidian/Readme.md",
+    "/my_obsidian/LLM plugin search.md",
+    "/my_obsidian/Installing on windows for work.md",
+    "/my_obsidian/Git integration.md",
+    "/my_obsidian",
+    "/ML Lab/readme.md",
+    "/ML Lab/email to Dr. Sparks.md",
+    "/Biolog/DNA_assembly_algorithm/readme.md",
+    "/Biolog/2025-07-25.md",
+    "/Biolog/2025-07-24.md",
+    "email to Dr. Sparks.md",
+    "ML Lab",
+    "/ML Lab",
+    "/Biolog/DNA_assembly_algorithm",
+    "Biolog/DNA_assembly_algorithm",
+    "/Biolog"
+  ]
 }
