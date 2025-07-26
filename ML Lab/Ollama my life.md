@@ -9,3 +9,6 @@ Things that I want to have:
 -  VScode integration 
 
 
+VScode integration research here [[VS Code AI agents with Ollama models]] 
+
+

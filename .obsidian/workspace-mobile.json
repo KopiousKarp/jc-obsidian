@@ -11,10 +11,14 @@
             "id": "6820749b2e0b3a8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ML Lab/VS Code AI agents with Ollama models.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "VS Code AI agents with Ollama models"
             }
           }
         ]
@@ -163,6 +167,12 @@
   },
   "active": "6820749b2e0b3a8e",
   "lastOpenFiles": [
+    "ML Lab/Ollama my life.md",
+    "ML Lab/VS Code AI agents with Ollama models.md",
+    "/ML Lab/VS Code AI agents with Ollama models.md",
+    "/ML Lab/Ollama my life.md",
+    "Biolog/readme.md",
+    "/Biolog/readme.md",
     "ML Lab/readme.md",
     "ML Lab/email to Dr. Sparks.md",
     "Biolog/DNA_assembly_algorithm/readme.md",

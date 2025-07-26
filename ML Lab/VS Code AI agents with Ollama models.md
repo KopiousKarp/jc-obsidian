@@ -1,9 +1,13 @@
 # Using VS Code AI agents with local Ollama models (no GitHub Copilot)
 Written by gpt4o with prompt:
 >Find the best way to use AI agents in VScode that are driven by Ollama models. I want to go completely without github copilot
+
+>my input will be in these note blocks
 ## Why run a local model?
 
 Running an AI assistant locally avoids sending code to a cloud service, eliminates subscription costs and can be customized.  
+>also I would like to strike a balance in my AI use
+
 Ollama is a light‑weight runtime that downloads and runs quantized large‑language models (LLMs) on your hardware. It exposes a REST API that is compatible with the OpenAI Chat Completions API[ollama.com](https://ollama.com/blog/openai-compatibility#:~:text=To%20invoke%20Ollama%E2%80%99s%20OpenAI%20compatible,http%3A%2F%2Flocalhost%3A11434), which allows many tools to treat a local model like a remote OpenAI endpoint.
 
 Depending on your needs there are several ways to integrate Ollama‑powered models into Visual Studio Code without using GitHub Copilot. The table below summarises the main options; detailed guidance follows.
